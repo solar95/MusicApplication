@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusicApplication</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="music">Music Player</string>
+    <string name="back">Back</string>
+    <string name="nowPlayingActivity">Activity_Now_Playing</string>
+    <string name="albumViewerActivity">Activity_Album_Viewer</string>
+    <string name="albumArt">Album Art</string>
+    <string name="albumInfo">Artist: Ainda Duo , Album: En el vendaval </string>
+    <string name="now_playing">Now Playing</string>
+
+</resources>
